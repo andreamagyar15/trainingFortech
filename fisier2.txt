@@ -1,6 +1,0 @@
-HelloWorld
-
-New line
-
-New line
-message
